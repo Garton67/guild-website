@@ -25,3 +25,9 @@ function resetImg() {
   img.style.transform = "scale(1)";
   img.style.transition = "transform 0.25s ease";
 }
+
+
+
+function myFunction() {
+  alert("I am an alert box!");
+}

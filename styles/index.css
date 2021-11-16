@@ -141,3 +141,7 @@ body {
     position: absolute;
     right: 0;
   }
+
+  .btn-primary:focus {
+    outline: none
+}
